@@ -259,3 +259,14 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+/Assets/Scences
+/Assets/Resources
+/Assets/Prefrabs
+/Assets/Fbx
+/Assets/Audio
+/Assets/AssetsPlugins
+/ProjectSettings
+/UnityPackageManager
+/Temp
+/Library
+/Assets/Textures/ProjectImages
